@@ -20,18 +20,26 @@ I intend for this curriculum to consume between 5-10 hours per week for 14 weeks
 ## Phase 1: Foundations (weeks 1-3)
 
 ## Week 1: What Linux is and how it thinks
-- [ ] Ch. 1 of How Linux Works (HLW)
-- [ ] Ch. 1 of A Practical Guide to Linux (APGL)
-- [ ] Intro + Ch. 1 of C Programming for Dummies (CPD)
-- [ ] Week 0 of CS50
-- [ ] LAB: Boot the Xubuntu machine. Run uname -r, free -h, lscpu. 
+- [x] Ch. 1 of How Linux Works (HLW)
+- [x] Ch. 1 of A Practical Guide to Linux (APGL)
+- [x] Intro + Ch. 1 of C Programming for Dummies (CPD)
+- [x] Week 0 of CS50
+- [x] LAB: Boot the Xubuntu machine. Run uname -r, free -h, lscpu.
+
+## Problem sets
+- [x] **[CS50 Week 0 Scratch project](https://scratch.mit.edu/projects/1325214717/fullscreen/)**
 
 ## Week 2: Basic Commands & The Shell - First Contact
 - [ ] Ch. 2 HLW
 - [ ] Ch. 2 & Ch. 3 APGL
 - [ ] Ch. 2 & Ch. 3 CPD
 - [ ] Week 1 of CS50
-- [ ] LAB: Practice 20 core commands from memory. Write a C program that prints your name and today's date. Compile with gcc. 
+- [ ] LAB: Practice 20 core commands from memory. Write a C program that prints your name and today's date. Compile with gcc.
+
+## Problem sets
+- [ ] Hello (C)
+- [ ] Mario (C)
+- [ ] Credit (C)
 
 ## Week 3: Permissions, Processes & the Filesystem
 - [ ] Ch. 2 Sections 2.15-2.21 HLW
