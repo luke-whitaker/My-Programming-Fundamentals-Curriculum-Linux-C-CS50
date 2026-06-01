@@ -37,7 +37,7 @@ I intend for this curriculum to consume between 5-10 hours per week for 14 weeks
 - [ ] LAB: Practice 20 core commands from memory. Write a C program that prints your name and today's date. Compile with gcc.
 
 ## Problem sets
-- [ ] Hello (C)
+- [x] **[Hello (C)](https://github.com/me50/luke-whitaker/blob/13d6c092223c039667f802ae9938d61b30cde7d2/hello.c)**
 - [ ] Mario (C)
 - [ ] Credit (C)
 
