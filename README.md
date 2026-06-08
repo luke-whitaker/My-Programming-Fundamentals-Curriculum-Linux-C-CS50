@@ -39,7 +39,7 @@ I intend for this curriculum to consume between 5-10 hours per week for 14 weeks
 ## Problem sets
 - [x] **[Hello (C)](https://github.com/me50/luke-whitaker/blob/13d6c092223c039667f802ae9938d61b30cde7d2/hello.c)**
 - [x] **[Mario (C)](https://github.com/me50/luke-whitaker/blob/d4ffebcf8ecd5d78dbe230f325b8586bc04c93fd/mario.c)**
-- [ ] Credit (C)
+- [x] **[Credit (C)](https://github.com/me50/luke-whitaker/blob/cs50/problems/2026/x/credit/credit.c)**
 
 ## Week 3: Permissions, Processes & the Filesystem
 - [ ] Ch. 2 Sections 2.15-2.21 HLW
